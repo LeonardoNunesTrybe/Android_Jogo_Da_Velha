@@ -1,4 +1,4 @@
-# Android_Jogo_Da_Velha
+# Jogo_Da_Velha
 
 ## Descrição
 O Jogo Da Velha é uma aplicação de jogo clássico escrito em Kotlin utilizando o Android Studio. O jogo permite que dois jogadores se enfrentem em uma partida do tradicional Jogo Da Velha, onde o objetivo é alinhar três símbolos iguais (X ou O) em uma linha, coluna ou diagonal.
