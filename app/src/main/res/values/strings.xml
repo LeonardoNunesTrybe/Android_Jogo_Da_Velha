@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JOGO DA VELHA</string>
+    <string name="jogo_da_velha">JOGO DA VELHA</string>
+    <string name="play_offline">Jogue Agora</string>
+    <string name="start_game">Inicie o Jogo</string>
+    <string name="x">X</string>
+</resources>
